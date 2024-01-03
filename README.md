@@ -7,7 +7,6 @@ An Amateur developer :)
 I enjoy exploring and trying out new web technologies, and I particularly enjoy using React (NextJS) and TailwindCSS to build apps. These tools allow me to create efficient and dynamic applications that make use of the latest and greatest technologies!
 
 * 🌍  I'm based in The Netherlands
-* 🖥️  See my portfolio at [Jornvanbrienen.nl](http://jornvanbrienen.nl)
 * ✉️  You can contact me at [Zoepoe#0711](mailto:Zoepoe#0711)
 * 🧠  I'm learning Typescript
 
