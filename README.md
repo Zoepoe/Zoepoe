@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zoepoe
 ==============================================================================================================================
 
-An Amateur developer :)
+An Amateur developer
 -----------------------
 
 I enjoy exploring and trying out new web technologies, and I particularly enjoy using React (NextJS) and TailwindCSS to build apps. These tools allow me to create efficient and dynamic applications that make use of the latest and greatest technologies!
